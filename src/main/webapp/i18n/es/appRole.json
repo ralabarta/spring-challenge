@@ -1,0 +1,24 @@
+{
+  "mytestappApp": {
+    "appRole": {
+      "home": {
+        "title": "App Roles",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo App Role",
+        "createOrEditLabel": "Crear o editar App Role",
+        "notFound": "Ningún App Roles encontrado"
+      },
+      "created": "Un nuevo App Role ha sido creado con el identificador {{ param }}",
+      "updated": "Un App Role ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un App Role ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar App Role {{ id }}?"
+      },
+      "detail": {
+        "title": "App Role"
+      },
+      "id": "ID",
+      "roleName": "Role Name"
+    }
+  }
+}
